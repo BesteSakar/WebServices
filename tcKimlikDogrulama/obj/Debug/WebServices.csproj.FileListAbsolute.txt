@@ -1,0 +1,11 @@
+C:\Users\beste\source\repos\tcKimlikDogrulama\tcKimlikDogrulama\bin\Debug\tcKimlikDogrulama.exe.config
+C:\Users\beste\source\repos\tcKimlikDogrulama\tcKimlikDogrulama\bin\Debug\tcKimlikDogrulama.exe
+C:\Users\beste\source\repos\tcKimlikDogrulama\tcKimlikDogrulama\bin\Debug\tcKimlikDogrulama.pdb
+C:\Users\beste\source\repos\tcKimlikDogrulama\tcKimlikDogrulama\obj\Debug\WebServices.csproj.AssemblyReference.cache
+C:\Users\beste\source\repos\tcKimlikDogrulama\tcKimlikDogrulama\obj\Debug\WebServices.csproj.SuggestedBindingRedirects.cache
+C:\Users\beste\source\repos\tcKimlikDogrulama\tcKimlikDogrulama\obj\Debug\tcKimlikDogrulama.Form1.resources
+C:\Users\beste\source\repos\tcKimlikDogrulama\tcKimlikDogrulama\obj\Debug\tcKimlikDogrulama.Properties.Resources.resources
+C:\Users\beste\source\repos\tcKimlikDogrulama\tcKimlikDogrulama\obj\Debug\WebServices.csproj.GenerateResource.cache
+C:\Users\beste\source\repos\tcKimlikDogrulama\tcKimlikDogrulama\obj\Debug\WebServices.csproj.CoreCompileInputs.cache
+C:\Users\beste\source\repos\tcKimlikDogrulama\tcKimlikDogrulama\obj\Debug\tcKimlikDogrulama.exe
+C:\Users\beste\source\repos\tcKimlikDogrulama\tcKimlikDogrulama\obj\Debug\tcKimlikDogrulama.pdb
